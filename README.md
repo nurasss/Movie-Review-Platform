@@ -13,7 +13,9 @@ Movie review platform with real-time data from TMDB API.
 - Responsive design
 - Accessibility compliant
 
-[## Live Demo](https://683f848d147a81246af50e73--cute-queijadas-da97c3.netlify.app/)
+
+## Live Demo
+[Movie Review Platform](https://683f848d147a81246af50e73--cute-queijadas-da97c3.netlify.app/)
 
 ## Screenshots
 ![Home Page](screenshots/home.png)
