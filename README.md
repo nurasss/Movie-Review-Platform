@@ -14,7 +14,7 @@ Movie review platform with real-time data from TMDB API.
 - Accessibility compliant
 
 ## Live Demo
-[https://yourusername.github.io/movie-platform](https://yourusername.github.io/movie-platform)
+[https://nurasss.github.io/movie-platform](https://nurasss.github.io/movie-platform)
 
 ## Screenshots
 ![Home Page](screenshots/home.png)
