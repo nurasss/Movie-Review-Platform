@@ -24,4 +24,4 @@ Movie review platform with real-time data from TMDB API.
 1. Get TMDB API key from [themoviedb.org](https://www.themoviedb.org/)
 2. Create `.env` file:
    ```env
-   TMDB_API_KEY=your_api_key_here
+   TMDB_API_KEY=88849047ba3351d64ea4fae7dc37495f
