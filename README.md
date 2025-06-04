@@ -14,7 +14,8 @@ Movie review platform with real-time data from TMDB API.
 
 
 ## Live Demo
-[Movie Review Platform]([https://683ff514aed5fd7823793986--fabulous-cobbler-617db8.netlify.app/])
+[Movie Review Platform](https://683ff514aed5fd7823793986--fabulous-cobbler-617db8.netlify.app/)
+
 
 
 
